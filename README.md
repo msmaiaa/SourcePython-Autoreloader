@@ -1,6 +1,6 @@
-# Sourcepawn auto reloader
+# SourcePython Autoreload
 
-This is a simple plugin auto-reloader for Sourcepawn
+This is a simple plugin auto-reloader for Sourcepython
 
 TODO:
 - [ ] Add convar support (time between checks, etc)
